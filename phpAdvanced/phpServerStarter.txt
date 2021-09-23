@@ -1,0 +1,2 @@
+Para startar um servidor utilizando o proprio PHP com o PHPStorm,
+executar no CMD: php -S localhost:{numeroParaPorta}
